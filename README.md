@@ -4,3 +4,4 @@
 ——迄今为止最好的Minecraft Server面板之一!
 </p>
 <HR>
+<h2>功能:</h2>
