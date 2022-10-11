@@ -1,5 +1,5 @@
 <p align="center"">
-<img src = 'https://s1.328888.xyz/2022/10/11/gvLEX.png'>
+<img style="width: 30%" src = 'https://s1.328888.xyz/2022/10/11/gvLEX.png'>
 </p>
 <HR>
 
