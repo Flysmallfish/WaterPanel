@@ -1,6 +1,6 @@
 <p align="center"">
 <img src = 'https://s3.bmp.ovh/imgs/2022/10/11/14f0c62d33ecbd08.png'>
 </p>
-<p align="center"">
-<p size="4">WaterPanel</p>
-</p>
+
+<p align="center" size="4">WaterPanel</p>
+
