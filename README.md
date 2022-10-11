@@ -4,4 +4,4 @@
 
 <p align="center" style = "font-size:55px;">WaterPanel</p>
 
-<p style="color:green;font-size:20px;">文字</p>>
+<p align="center" style="color:green;font-size:20px;">文字</p>
